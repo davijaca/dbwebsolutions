@@ -1,0 +1,34 @@
+# Gatsby build output
+/public
+
+# Node.js dependencies
+/node_modules
+
+# Local environment variables
+.env
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: gatsby cache
+.cache/
+.cache-lmdb/
+
+# Optional: Netlify or other deployment folders
+netlify.toml
+
+# Optional: Misc
+.idea/
+*.local
+*.sublime-workspace
+*.sublime-project
