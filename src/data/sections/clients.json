@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "lightImage": "/img/clients/brands/light/01.png",
+        "darkImage": "/img/clients/brands/dark/react.png",
+        "url": "ReactJS"
+    },
+    {
+        "id": 2,
+        "lightImage": "/img/clients/brands/light/02.png",
+        "darkImage": "/img/clients/brands/dark/vue.png",
+        "url": "VueJS"
+    },
+    {
+        "id": 3,
+        "lightImage": "/img/clients/brands/light/03.png",
+        "darkImage": "/img/clients/brands/dark/wordpress.png",
+        "url": "WordPress"
+    },
+    {
+        "id": 4,
+        "lightImage": "/img/clients/brands/light/04.png",
+        "darkImage": "/img/clients/brands/dark/next.svg",
+        "url": "NextJS"
+    },
+    {
+        "id": 5,
+        "lightImage": "/img/clients/brands/light/05.png",
+        "darkImage": "/img/clients/brands/dark/scss.svg",
+        "url": "SCSS"
+    },
+    {
+        "id": 6,
+        "lightImage": "/img/clients/brands/light/06.png",
+        "darkImage": "/img/clients/brands/dark/js.svg",
+        "url": "Javascript"
+    },
+    {
+        "id": 7,
+        "lightImage": "/img/clients/brands/light/07.png",
+        "darkImage": "/img/clients/brands/dark/typescript.svg",
+        "url": "Typescript"
+    },
+    {
+        "id": 8,
+        "lightImage": "/img/clients/brands/light/08.png",
+        "darkImage": "/img/clients/brands/dark/php.png",
+        "url": "PHP"
+    }
+]
