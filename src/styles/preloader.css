@@ -40,11 +40,11 @@
     left top,
     right top,
     from(#12c2e9),
-    color-stop(#c471ed),
-    to(#f64f59)
+    color-stop(#22aff5),
+    to(#62f797)
   );
-  background: -webkit-linear-gradient(left, #12c2e9, #c471ed, #f64f59);
-  background: -o-linear-gradient(left, #12c2e9, #c471ed, #f64f59);
+  background: -webkit-linear-gradient(left, #12c2e9, #22aff5, #62f797);
+  background: -o-linear-gradient(left, #12c2e9, #22aff5, #62f797);
   background: linear-gradient(98.7deg, #22aff5 2.8%, #62f797 97.8%);
 }
 

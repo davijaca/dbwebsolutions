@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Vie',
-    description: 'Vie - Multi-Purpose React.js Gatsby Template',
-    author: 'ThemesCamp'
+    title: 'DB Web Solutions',
+    author: 'Davi Bentim'
   },
+  pathPrefix: "/dbwebsolutions",
   plugins: [
     'gatsby-plugin-resolve-src',
     'gatsby-plugin-eslint'
