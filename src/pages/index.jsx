@@ -187,7 +187,7 @@ const Demos = () => {
         {/* Hero Section */}
         <section
           className="works-header particles valign bg-img parallaxie snap-section"
-          data-overlay-dark="4"
+          // data-overlay-dark="4"
           style={{
             minHeight: "100vh",
             zIndex: 99999,
@@ -206,20 +206,22 @@ const Demos = () => {
               <source src="/videos/hero-bg.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
+            <div className="video-overlay"></div>
           </div>
 
+
           {/* 🔹 Optional Overlay (Dark tint) */}
-          <div className="overlay-dark"></div>
+          {/* <div className="overlay-dark"></div> */}
 
           {/* 🔹 Particle Background Layer */}
-          <Particles id="particles-js" init={particlesInit} options={particlesConfig} />
+          {/* <Particles id="particles-js" init={particlesInit} options={particlesConfig} /> */}
 
           {/* 🔹 Foreground Content */}
           <div className="container">
             <div className="row justify-content-center">
               <div className="col-lg-9 col-md-11 static">
                 <div className="capt mt-50">
-                  <div className="bactxt custom-font valign">
+                  {/* <div className="bactxt custom-font valign">
                     <span className="full-width" style={{ color: "transparent", marginTop: "-250px"  }}>
                       DB<br />  <span
                       className="full-width"
@@ -227,7 +229,7 @@ const Demos = () => {
                       WEB SOLUTIONS
                     </span>
                     </span>
-                  </div>
+                  </div> */}
                   <h1 className="color-font">
                     Your website should tell a story
                   </h1>
@@ -273,8 +275,9 @@ const Demos = () => {
               <section className="block-sec">
                 <div
                   className="background bg-img pt-100 pb-0 parallaxie"
-                  style={{ backgroundImage: `url(/img/95962.png)` }}
-                  data-overlay-dark="5"
+                  style={{ backgroundImage: `url(/img/95962.png)`,
+    height: '100vh', }}
+                  // data-overlay-dark="5"
                 >
                   <div className="container">
                     <div className="row">

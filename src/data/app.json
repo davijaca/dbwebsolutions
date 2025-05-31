@@ -1,5 +1,5 @@
 {
-    "lightLogo": "/img/dblogo-light.png",
-    "darkLogo": "/img/dblogo-light2.png",
+    "lightLogo": "/img/dblogo2-dark.svg",
+    "darkLogo": "/img/dblogo2-dark.svg",
     "showLoading": true
 }
